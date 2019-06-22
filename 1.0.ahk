@@ -4,7 +4,7 @@ Gui , Add , Button , gNazwa
 Gui , Show
 return
 Nazwa:
-Gui, Color, black
+Gui, Color, orange
 Gui, Show
 return
 GuiClose:
