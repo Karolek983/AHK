@@ -1,7 +1,7 @@
 #SingleInstance, force
-Gui , Add , Text ,, Proszê podaæ swoje imiê: 
-Gui , Add , Button , gNazwa
-Gui , Show
+Gui, Add, Text, x0 y0 w1 h1, Prosze podac swoje imie: 
+Gui, Add, Button, gNazwa, Dalej
+Gui, Show, center w1 h1, Nazwa okna
 return
 Nazwa:
 Gui, Color, orange
