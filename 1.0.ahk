@@ -1,4 +1,5 @@
 #SingleInstance, force
+;qpa
 posx := (500 / 2) - 50 / 2
 Gui, Add, Button, gNazwa x%posx%, Neo Tools
 Gui, color,gray,
